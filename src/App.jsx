@@ -1,13 +1,11 @@
-import styles from './App.modules.css';
+import system from './App.module.css';
 
 function App() {
-  //const [count, setCount] = useState(0)
-
   return (
-    <div className={styles.App}> 
-      Hello World
+    <div className={system.App}>
+      gaasdfjlsdjak
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
