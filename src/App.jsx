@@ -1,9 +1,10 @@
 import system from './App.module.css';
+import { Navbar } from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <div className={system.App}>
-      gaasdfjlsdjak
+      <Navbar />
     </div>
   );
 }
