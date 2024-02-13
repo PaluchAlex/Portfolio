@@ -1,7 +1,8 @@
 // eslint-disable-next-line no-unused-vars
-import React from "react";
+import React, {useState} from "react";
 
 import styles from "./Navbar.module.css";
+import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
     return (
@@ -10,6 +11,7 @@ export const Navbar = () => {
                 Portfolio
             </a>
             <div className={styles.menu}>
+                <img className={styles.menuBtn} src={getImageUrl("nav/menuIcon.png")} />
                 <ul className={styles.menuItems}>
                     <li>
                         <a href="#about">About</a>
@@ -28,3 +30,5 @@ export const Navbar = () => {
         </nav>
     );
 };
+
+export default Navbar;
