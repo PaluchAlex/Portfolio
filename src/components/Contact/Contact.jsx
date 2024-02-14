@@ -26,7 +26,7 @@ export const Contact = () => {
                         alt="linkedin icon"
                     />
                     <a href="https://www.linkedin.com/in/alex-paluch-5b9783271">
-                        linkedin.com/in/alex-paluch-5b9783271
+                        linkedin.com/in/alex-paluch
                     </a>
                 </li>
                 <li className={styles.link}>
