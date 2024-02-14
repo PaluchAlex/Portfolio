@@ -1,0 +1,35 @@
+[
+    {
+        "role": "Partcicipant",
+        "organisation": "Google Digital Programming Workshop",
+        "startDate": "Nov, 2023",
+        "endDate": "Jan, 2024",
+        "experiences": [
+            "Dart",
+            "Flutter",
+            "Mobile Developement",
+            "Modular Programing"
+        ],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Student",
+        "organisation": "Mathematics and Computer Science, Babes-Bolyai University",
+        "startDate": "oct, 2020",
+        "endDate": "Jun, 2024",
+        "experiences": [
+            "Web Programming",
+            "Artificial Intelligence",
+            "Computer Graphics",
+            "Formal Languages and Compilation Techniques",
+            "Object Oriented Programming",
+            "Algorithms and Programming",
+            "Data Structures",
+            "Databases",
+            "Advanced Programming Methods",
+            "Operating Systems",
+            "The Architecture of Computing Systems"
+        ],
+        "imageSrc": "history/ubb.png"
+    }
+]
