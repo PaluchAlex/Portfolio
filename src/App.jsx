@@ -2,6 +2,7 @@ import system from "./App.module.css";
 import { Hero } from "./components/Hero/Hero";
 import { Navbar } from "./components/Navbar/Navbar";
 import { About } from "./components/About/About";
+import { Contact } from "./components/Contact/Contact";
 
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
             <Navbar />
             <Hero />
             <About />
-            <footer>Icons by <a href="https://icons8.com">Icons8.com</a> </footer>
+            <Contact />
         </div>
     );
 }
