@@ -4,24 +4,24 @@
       "imageSrc": "projects/unsplash.png",
       "description": "This is the final project of the Google Digital Programming Workshop.",
       "skills": ["Flutter", "Dart", "Firebase"],
-      "demo": "https://www.example.com",
+      "demo": "",
       "source": "https://github.com/PaluchAlex/unsplash_gallery"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "FlashCards",
+      "imageSrc": "projects/FlashCards.png",
+      "description": "This is the final project for the Web programming course from school.",
+      "skills": ["JavaScript", "PHP", "HTML", "CSS"],
+      "demo": "",
+      "source": "https://github.com/PaluchAlex/FlashCards"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Writerinator",
+      "imageSrc": "projects/writeinator.png",
+      "description": "A personal project used to practice computer typing speed.",
+      "skills": ["JavaScript", "HTML", "CSS", "Bootstrap"],
+      "source": "https://github.com/PaluchAlex/Writerinator",
+      "demo": "https://paluchalex.github.io/Writerinator/"
     }
   ]
   
