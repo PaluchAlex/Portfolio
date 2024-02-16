@@ -22,5 +22,13 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/c-sharp.png"
     }
   ]
