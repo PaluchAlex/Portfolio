@@ -68,7 +68,7 @@
     }
 
     50% {
-        transform: translate(0, 10px);
+        transform: translate(0, 20px);
     }
 
     100% {
@@ -120,6 +120,7 @@
     .heroImg {
         margin-top: 0;
         margin-left: 0;
+        margin-bottom: 10px;
     }
 
     .content {
