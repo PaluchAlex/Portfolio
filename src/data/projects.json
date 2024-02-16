@@ -1,7 +1,7 @@
 [
     {
-      "title": "Unsplash Gallery",
-      "imageSrc": "projects/project.png",
+      "title": "Flutter - Unsplash Gallery",
+      "imageSrc": "projects/unsplash.png",
       "description": "This is the final project of the Google Digital Programming Workshop.",
       "skills": ["Flutter", "Dart", "Firebase"],
       "demo": "https://www.example.com",
